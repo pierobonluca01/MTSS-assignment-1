@@ -2,6 +2,8 @@
 2009111
 
 # Inventario
+
+## Componenti
 * Processori
 * Schede Madri
 
